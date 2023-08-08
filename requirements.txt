@@ -1,0 +1,5 @@
+config~=0.5.1
+requests~=2.31.0
+moviepy~=1.0.3
+deepmultilingualpunctuation~=1.0.1
+telebot~=0.0.5
